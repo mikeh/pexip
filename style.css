@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 	Pexip Engineering Careers
-	About: A shiny new Blocs website.
+	About: Pexip Engineering
 	Author: Mike Hatfield
 	Version: 1.0
 	Built with Blocs
@@ -34,6 +34,17 @@ a:hover{text-decoration: none; cursor:pointer;}
 	url('./fonts/Whyte-Book/Whyte-Book.woff') format('woff'),
 	url('./fonts/Whyte-Book/Whyte-Book.eot?#iefix') format('embedded-opentype'),
 	url('./fonts/Whyte-Book/Whyte-Book.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family:'Whyte-Medium';
+	src: url('./fonts/Whyte-Medium/Whyte-Medium.woff2');
+	src: url('./fonts/Whyte-Medium/Whyte-Medium.woff2') format('woff2'),
+	url('./fonts/Whyte-Medium/Whyte-Medium.woff') format('woff'),
+	url('./fonts/Whyte-Medium/Whyte-Medium.eot?#iefix') format('embedded-opentype'),
+	url('./fonts/Whyte-Medium/Whyte-Medium.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -318,10 +329,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .img-intern-projec-style{
 	height:353px;
 }
-.h6-style{
-	color:#FF525C!important;
+.h1-style{
 	font-family:"Whyte-Medium";
-	margin-bottom:0px;
 }
 
 /* = Colour
