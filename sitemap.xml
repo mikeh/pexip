@@ -150,6 +150,14 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
+	<image:loc>https://dev.pexip.com/img/Pexip%20scale%20anonymized.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://dev.pexip.com/img/intern_projects.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://dev.pexip.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>

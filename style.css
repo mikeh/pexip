@@ -154,6 +154,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 .voffset{
 	margin-top:30px;
 }
+.voffset-md{
+	margin-top:50px;
+}
 
 
 /* = NavBar
@@ -305,15 +308,20 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .navbar-brand img{
 	width:270px;
 }
-.footer svg{
-	fill:#FFFFFF;
-}
 .footer-pexip-way{
 	color:#FFFFFF!important;
 	font-family:"Whyte-Book";
 }
 .img-style{
 	height:375px;
+}
+.img-intern-projec-style{
+	height:353px;
+}
+.h6-style{
+	color:#FF525C!important;
+	font-family:"Whyte-Medium";
+	margin-bottom:0px;
 }
 
 /* = Colour
@@ -441,15 +449,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 
 @media (max-width: 991px){
-	.mt-md-0{
-	}
-	.mt-md-4{
-	}
 	
-}
-
-@media (max-width: 575px){
-	.mt-1{
+	/* MD Row Margin Offsets */
+	.voffset-md{
+		margin-top:30px;
 	}
 	
 }
