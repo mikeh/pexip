@@ -332,6 +332,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h1-style{
 	font-family:"Whyte-Medium";
 }
+.blog-date{
+	color:#FF525B!important;
+	font-family:"Whyte-Medium";
+}
 
 /* = Colour
 -------------------------------------------------------------- */
